@@ -6,7 +6,7 @@ Sidan är byggd med HTML, CSS, och JS som ett projekt i Frontend kursen.
 
 Skiss
 
-Skissen är gjord med FIGMA och finns i repot: sketch-laptop.png. och sketch-mobile.png
+Skissen är gjord med FIGMA och finns i repot: untitled.png, där visas både desktop och mobil-layouten.
 
 Skillnader i skiss: skissen gjordes tidigt i projektet och sen dess har jag använt båda min fantasi och AI för att göra hemsidan lite snyggare, i skissen är footern en enkel ruta men en footer med tre kolumner på den färdiga sidan, då, som sagt, ville att sidan ska se mer färdigt ut.
 
